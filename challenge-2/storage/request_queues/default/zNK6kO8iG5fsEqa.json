@@ -1,0 +1,9 @@
+{
+	"id": "zNK6kO8iG5fsEqa",
+	"json": "{\"id\":\"zNK6kO8iG5fsEqa\",\"url\":\"https://www.ycombinator.com/companies/hiro-systems\",\"loadedUrl\":\"https://www.ycombinator.com/companies/hiro-systems\",\"uniqueKey\":\"https://www.ycombinator.com/companies/hiro-systems\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:15.031Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/hiro-systems",
+	"url": "https://www.ycombinator.com/companies/hiro-systems"
+}

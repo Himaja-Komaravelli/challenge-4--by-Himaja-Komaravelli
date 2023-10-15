@@ -1,0 +1,9 @@
+{
+	"id": "it7vsa7dY2b7534",
+	"json": "{\"id\":\"it7vsa7dY2b7534\",\"url\":\"https://www.ycombinator.com/companies/second\",\"loadedUrl\":\"https://www.ycombinator.com/companies/second\",\"uniqueKey\":\"https://www.ycombinator.com/companies/second\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:02.338Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/second",
+	"url": "https://www.ycombinator.com/companies/second"
+}

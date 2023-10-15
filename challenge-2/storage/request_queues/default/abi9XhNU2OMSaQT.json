@@ -1,0 +1,9 @@
+{
+	"id": "abi9XhNU2OMSaQT",
+	"json": "{\"id\":\"abi9XhNU2OMSaQT\",\"url\":\"https://www.ycombinator.com/companies/echodio\",\"loadedUrl\":\"https://www.ycombinator.com/companies/echodio\",\"uniqueKey\":\"https://www.ycombinator.com/companies/echodio\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:52:49.226Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/echodio",
+	"url": "https://www.ycombinator.com/companies/echodio"
+}

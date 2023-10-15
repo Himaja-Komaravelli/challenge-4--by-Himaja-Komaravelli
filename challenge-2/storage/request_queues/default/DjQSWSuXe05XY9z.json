@@ -1,0 +1,9 @@
+{
+	"id": "DjQSWSuXe05XY9z",
+	"json": "{\"id\":\"DjQSWSuXe05XY9z\",\"url\":\"https://www.ycombinator.com/companies/razorpay\",\"loadedUrl\":\"https://www.ycombinator.com/companies/razorpay\",\"uniqueKey\":\"https://www.ycombinator.com/companies/razorpay\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:52:38.909Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/razorpay",
+	"url": "https://www.ycombinator.com/companies/razorpay"
+}

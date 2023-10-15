@@ -1,0 +1,9 @@
+{
+	"id": "7WdnNZpDQZDFnek",
+	"json": "{\"id\":\"7WdnNZpDQZDFnek\",\"url\":\"https://www.ycombinator.com/companies/walletkit\",\"loadedUrl\":\"https://www.ycombinator.com/companies/walletkit\",\"uniqueKey\":\"https://www.ycombinator.com/companies/walletkit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:10.219Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/walletkit",
+	"url": "https://www.ycombinator.com/companies/walletkit"
+}

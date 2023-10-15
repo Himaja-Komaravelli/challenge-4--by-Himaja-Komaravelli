@@ -1,0 +1,9 @@
+{
+	"id": "cGqVRIuDCFfjXH5",
+	"json": "{\"id\":\"cGqVRIuDCFfjXH5\",\"url\":\"https://www.ycombinator.com/companies/solstar\",\"loadedUrl\":\"https://www.ycombinator.com/companies/solstar\",\"uniqueKey\":\"https://www.ycombinator.com/companies/solstar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:14.109Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/solstar",
+	"url": "https://www.ycombinator.com/companies/solstar"
+}

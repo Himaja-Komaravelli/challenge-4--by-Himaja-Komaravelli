@@ -1,0 +1,9 @@
+{
+	"id": "b89BvtPQqJ7gTfw",
+	"json": "{\"id\":\"b89BvtPQqJ7gTfw\",\"url\":\"https://www.ycombinator.com/companies/vectorshift\",\"loadedUrl\":\"https://www.ycombinator.com/companies/vectorshift\",\"uniqueKey\":\"https://www.ycombinator.com/companies/vectorshift\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:52:33.361Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/vectorshift",
+	"url": "https://www.ycombinator.com/companies/vectorshift"
+}

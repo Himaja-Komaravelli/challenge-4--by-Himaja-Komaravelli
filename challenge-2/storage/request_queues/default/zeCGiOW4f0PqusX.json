@@ -1,0 +1,9 @@
+{
+	"id": "zeCGiOW4f0PqusX",
+	"json": "{\"id\":\"zeCGiOW4f0PqusX\",\"url\":\"https://www.ycombinator.com/companies/tempo\",\"loadedUrl\":\"https://www.ycombinator.com/companies/tempo\",\"uniqueKey\":\"https://www.ycombinator.com/companies/tempo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:26.285Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/tempo",
+	"url": "https://www.ycombinator.com/companies/tempo"
+}

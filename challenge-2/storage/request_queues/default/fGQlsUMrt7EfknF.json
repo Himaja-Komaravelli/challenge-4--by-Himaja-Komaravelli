@@ -1,0 +1,9 @@
+{
+	"id": "fGQlsUMrt7EfknF",
+	"json": "{\"id\":\"fGQlsUMrt7EfknF\",\"url\":\"https://www.ycombinator.com/companies/khoj\",\"loadedUrl\":\"https://www.ycombinator.com/companies/khoj\",\"uniqueKey\":\"https://www.ycombinator.com/companies/khoj\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:20.559Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/khoj",
+	"url": "https://www.ycombinator.com/companies/khoj"
+}

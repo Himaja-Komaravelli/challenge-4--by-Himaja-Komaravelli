@@ -1,0 +1,9 @@
+{
+	"id": "X3JaWQ69kciGIG3",
+	"json": "{\"id\":\"X3JaWQ69kciGIG3\",\"url\":\"https://www.ycombinator.com/companies/insoshi\",\"loadedUrl\":\"https://www.ycombinator.com/companies/insoshi\",\"uniqueKey\":\"https://www.ycombinator.com/companies/insoshi\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:52:55.268Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/insoshi",
+	"url": "https://www.ycombinator.com/companies/insoshi"
+}

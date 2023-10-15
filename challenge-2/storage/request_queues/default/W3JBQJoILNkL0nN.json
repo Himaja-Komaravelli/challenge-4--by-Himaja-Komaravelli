@@ -1,0 +1,9 @@
+{
+	"id": "W3JBQJoILNkL0nN",
+	"json": "{\"id\":\"W3JBQJoILNkL0nN\",\"url\":\"https://www.ycombinator.com/companies/materee\",\"loadedUrl\":\"https://www.ycombinator.com/companies/materee\",\"uniqueKey\":\"https://www.ycombinator.com/companies/materee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:01.116Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/materee",
+	"url": "https://www.ycombinator.com/companies/materee"
+}

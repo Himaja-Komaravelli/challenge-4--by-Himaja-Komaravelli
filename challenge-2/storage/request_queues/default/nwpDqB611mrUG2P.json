@@ -1,0 +1,9 @@
+{
+	"id": "nwpDqB611mrUG2P",
+	"json": "{\"id\":\"nwpDqB611mrUG2P\",\"url\":\"https://www.ycombinator.com/companies/monzo-bank\",\"loadedUrl\":\"https://www.ycombinator.com/companies/monzo-bank\",\"uniqueKey\":\"https://www.ycombinator.com/companies/monzo-bank\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:07.045Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/monzo-bank",
+	"url": "https://www.ycombinator.com/companies/monzo-bank"
+}

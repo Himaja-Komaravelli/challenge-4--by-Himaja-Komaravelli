@@ -1,0 +1,9 @@
+{
+	"id": "QWQYXbApVfA6ExW",
+	"json": "{\"id\":\"QWQYXbApVfA6ExW\",\"url\":\"https://www.ycombinator.com/companies/dill\",\"loadedUrl\":\"https://www.ycombinator.com/companies/dill\",\"uniqueKey\":\"https://www.ycombinator.com/companies/dill\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:52:41.858Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/dill",
+	"url": "https://www.ycombinator.com/companies/dill"
+}

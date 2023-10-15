@@ -1,0 +1,9 @@
+{
+	"id": "w2TMvCOf9umnrve",
+	"json": "{\"id\":\"w2TMvCOf9umnrve\",\"url\":\"https://www.ycombinator.com/companies/internet-friends\",\"loadedUrl\":\"https://www.ycombinator.com/companies/cadence-2\",\"uniqueKey\":\"https://www.ycombinator.com/companies/internet-friends\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:12.981Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/internet-friends",
+	"url": "https://www.ycombinator.com/companies/internet-friends"
+}

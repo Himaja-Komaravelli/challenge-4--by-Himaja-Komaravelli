@@ -1,0 +1,9 @@
+{
+	"id": "AeytxR1SvRVrPsx",
+	"json": "{\"id\":\"AeytxR1SvRVrPsx\",\"url\":\"https://www.ycombinator.com/companies/happyrobot\",\"loadedUrl\":\"https://www.ycombinator.com/companies/happyrobot\",\"uniqueKey\":\"https://www.ycombinator.com/companies/happyrobot\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:18.208Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/happyrobot",
+	"url": "https://www.ycombinator.com/companies/happyrobot"
+}

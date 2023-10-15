@@ -1,0 +1,9 @@
+{
+	"id": "aWT58giiPteeLlo",
+	"json": "{\"id\":\"aWT58giiPteeLlo\",\"url\":\"https://www.ycombinator.com/companies/rescuetime\",\"loadedUrl\":\"https://www.ycombinator.com/companies/rescuetime\",\"uniqueKey\":\"https://www.ycombinator.com/companies/rescuetime\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:52:47.075Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/rescuetime",
+	"url": "https://www.ycombinator.com/companies/rescuetime"
+}

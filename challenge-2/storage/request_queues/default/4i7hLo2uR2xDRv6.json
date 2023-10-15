@@ -1,0 +1,9 @@
+{
+	"id": "4i7hLo2uR2xDRv6",
+	"json": "{\"id\":\"4i7hLo2uR2xDRv6\",\"url\":\"https://www.ycombinator.com/companies/flair-health\",\"loadedUrl\":\"https://www.ycombinator.com/companies/flair-health\",\"uniqueKey\":\"https://www.ycombinator.com/companies/flair-health\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:52:29.181Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/flair-health",
+	"url": "https://www.ycombinator.com/companies/flair-health"
+}

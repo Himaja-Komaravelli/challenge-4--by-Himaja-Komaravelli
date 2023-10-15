@@ -1,0 +1,9 @@
+{
+	"id": "0CVZxv2Webj1gEj",
+	"json": "{\"id\":\"0CVZxv2Webj1gEj\",\"url\":\"https://www.ycombinator.com/companies/lively-inc\",\"loadedUrl\":\"https://www.ycombinator.com/companies/lively-inc\",\"uniqueKey\":\"https://www.ycombinator.com/companies/lively-inc\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:05.816Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/lively-inc",
+	"url": "https://www.ycombinator.com/companies/lively-inc"
+}

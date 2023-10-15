@@ -1,0 +1,9 @@
+{
+	"id": "4Cz1wjx6Mna8pxy",
+	"json": "{\"id\":\"4Cz1wjx6Mna8pxy\",\"url\":\"https://www.ycombinator.com/companies/lingt\",\"loadedUrl\":\"https://www.ycombinator.com/companies/lingt\",\"uniqueKey\":\"https://www.ycombinator.com/companies/lingt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:52:48.103Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/lingt",
+	"url": "https://www.ycombinator.com/companies/lingt"
+}

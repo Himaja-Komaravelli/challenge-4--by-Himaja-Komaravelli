@@ -1,0 +1,9 @@
+{
+	"id": "tVKugI58i5GB4qq",
+	"json": "{\"id\":\"tVKugI58i5GB4qq\",\"url\":\"https://www.ycombinator.com/companies/magicbell\",\"loadedUrl\":\"https://www.ycombinator.com/companies/magicbell\",\"uniqueKey\":\"https://www.ycombinator.com/companies/magicbell\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:24.248Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/magicbell",
+	"url": "https://www.ycombinator.com/companies/magicbell"
+}

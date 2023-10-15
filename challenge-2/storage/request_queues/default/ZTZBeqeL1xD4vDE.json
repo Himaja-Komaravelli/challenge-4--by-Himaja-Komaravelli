@@ -1,0 +1,9 @@
+{
+	"id": "ZTZBeqeL1xD4vDE",
+	"json": "{\"id\":\"ZTZBeqeL1xD4vDE\",\"url\":\"https://www.ycombinator.com/companies/stripe\",\"loadedUrl\":\"https://www.ycombinator.com/companies/stripe\",\"uniqueKey\":\"https://www.ycombinator.com/companies/stripe\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:08.272Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/stripe",
+	"url": "https://www.ycombinator.com/companies/stripe"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "x15N78giLT0cdvt",
+	"json": "{\"id\":\"x15N78giLT0cdvt\",\"url\":\"https://www.ycombinator.com/companies/highlight-io\",\"loadedUrl\":\"https://www.ycombinator.com/companies/highlight-io\",\"uniqueKey\":\"https://www.ycombinator.com/companies/highlight-io\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:03.316Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/highlight-io",
+	"url": "https://www.ycombinator.com/companies/highlight-io"
+}

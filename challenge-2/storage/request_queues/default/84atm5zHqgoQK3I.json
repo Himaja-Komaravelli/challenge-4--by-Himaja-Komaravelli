@@ -1,0 +1,9 @@
+{
+	"id": "84atm5zHqgoQK3I",
+	"json": "{\"id\":\"84atm5zHqgoQK3I\",\"url\":\"https://www.ycombinator.com/companies/classdojo\",\"loadedUrl\":\"https://www.ycombinator.com/companies/classdojo\",\"uniqueKey\":\"https://www.ycombinator.com/companies/classdojo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:53:22.609Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/classdojo",
+	"url": "https://www.ycombinator.com/companies/classdojo"
+}

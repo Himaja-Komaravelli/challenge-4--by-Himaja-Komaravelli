@@ -1,0 +1,9 @@
+{
+	"id": "2V7tKucamR4ZWiv",
+	"json": "{\"id\":\"2V7tKucamR4ZWiv\",\"url\":\"https://www.ycombinator.com/companies/untether-labs\",\"loadedUrl\":\"https://www.ycombinator.com/companies/untether-labs\",\"uniqueKey\":\"https://www.ycombinator.com/companies/untether-labs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:52:40.842Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/untether-labs",
+	"url": "https://www.ycombinator.com/companies/untether-labs"
+}

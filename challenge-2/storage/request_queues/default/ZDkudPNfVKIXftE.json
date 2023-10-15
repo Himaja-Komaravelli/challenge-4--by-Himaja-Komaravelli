@@ -1,0 +1,9 @@
+{
+	"id": "ZDkudPNfVKIXftE",
+	"json": "{\"id\":\"ZDkudPNfVKIXftE\",\"url\":\"https://www.ycombinator.com/companies/vaultpay\",\"loadedUrl\":\"https://www.ycombinator.com/companies/vaultpay\",\"uniqueKey\":\"https://www.ycombinator.com/companies/vaultpay\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-10-15T14:52:34.285Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.ycombinator.com/companies/vaultpay",
+	"url": "https://www.ycombinator.com/companies/vaultpay"
+}

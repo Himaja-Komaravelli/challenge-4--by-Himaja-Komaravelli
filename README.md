@@ -8,7 +8,6 @@ You'll find 3 challenges here, each in its own folder:
 
 - `challenge-1` will test your data processing and pipelining skills. You'll process large files with the Node Streams API and convert CSVs into SQL commands with Knex.
 - `challenge-2` will test your web scraping abilities. You'll use tools like Crawlee and Cheerio.
-- `challenge-3` will test your frontend development skills with React. You'll also use new tools like Chakra UI.
 
 Each challenge is self-contained, although they share some NPM modules (which is why the `package.json` file is out in the parent folder). Feel free to install any other modules that might help you; be sure they're compatible with TypeScript.
 

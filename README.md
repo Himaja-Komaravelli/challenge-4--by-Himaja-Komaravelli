@@ -1,4 +1,4 @@
-# Wielabs interview challenges
+# Wielabs challenges
 
 Welcome! We're excited to be considering you for a full-stack engineering role at Wielabs. This folder (which will be the basis for a private GitHub repository) contains several engineering challenges for you to complete over the next few days.
 
